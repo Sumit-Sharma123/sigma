@@ -1,2 +1,2 @@
 # sigma
-coding journey is most beautiful
+coding journey is most beautiful.
